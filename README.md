@@ -15,4 +15,4 @@ This project is focused on standardizing the way we acquire farmer produce avail
 5. Bonus: Provide farmers with Fair Shares’ **typical pricing** and **purchase history** insights
   + May need to isolate pricing by farmer within separate dashboards (worry of exposing $)
 
-<https://docs.google.com/presentation/d/1HfMxByT_6j0C-8tUPjicZDOi7REFknUdEDp-2byLlXc/edit#slide=id.g11337c7c886_0_128>[link](Google Slides Documentation)
+[Google Slides Documentation](https://docs.google.com/presentation/d/1HfMxByT_6j0C-8tUPjicZDOi7REFknUdEDp-2byLlXc/edit#slide=id.g11337c7c886_0_128)
