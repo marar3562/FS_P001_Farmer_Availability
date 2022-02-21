@@ -29,13 +29,13 @@ fp = range_read("1m45w0hQOkvUFvNpc5MwQcN4snGs0Lkrb6kJfOUJf6tw"
 #Master Item List tab
 mil = range_read("1m45w0hQOkvUFvNpc5MwQcN4snGs0Lkrb6kJfOUJf6tw"
                 ,sheet = 'master_item_list'
-                ,col_types = 'cccccccncD'
+                ,col_types = 'cccccccnccD'
                 )
 
 #Farmer List tab
 fl = range_read("1m45w0hQOkvUFvNpc5MwQcN4snGs0Lkrb6kJfOUJf6tw"
                 ,sheet = 'farmer_list'
-                ,col_types = 'ccD'
+                ,col_types = 'cccccD'
                 )
 
 #Share Rotation tab
